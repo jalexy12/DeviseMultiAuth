@@ -22,6 +22,7 @@ gem 'omniauth-twitter'
 gem 'omniauth-facebook'
 
 gem 'fb_graph'
+
 gem 'twitter-bootstrap-rails'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
